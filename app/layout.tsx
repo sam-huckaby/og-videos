@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "Potato Stream",
   description: "You can literally do anything on the internet - it's crazy",
   openGraph: {
-    images: 'https://invision-nails-specification-toy.trycloudflare.com/og-image.png',
+    images: 'https://liable-lucas-desired-advisors.trycloudflare.com/og-image.png',
   },
 };
 */
@@ -35,10 +35,10 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <meta property="og:type" content="video" />
-        <meta property="og:url" content="https://bored-presentation-foreign-softball.trycloudflare.com/seems-good.webm" />
-        <meta property="og:video" content="https://bored-presentation-foreign-softball.trycloudflare.com/seems-good.webm" />
+        <meta property="og:url" content="https://deliver-nicaragua-pillow-meyer.trycloudflare.com/seems-good.webm" />
+        <meta property="og:video" content="https://deliver-nicaragua-pillow-meyer.trycloudflare.com/seems-good.webm" />
         <meta property="og:video:type" content="video" />
-        <meta http-equiv="refresh" content="0; url='https://bored-presentation-foreign-softball.trycloudflare.com/seems-good.webm'" />
+        {/*<meta http-equiv="refresh" content="0; url='https://deliver-nicaragua-pillow-meyer.trycloudflare.com/seems-good.webm'" />*/}
       </head>
       <body className={inter.className}>{children}</body>
     </html>
